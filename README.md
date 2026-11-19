@@ -48,16 +48,16 @@ Manual QA Testing Fresher
 ## Screenshots
 
 ### 1. Login Page
-![Login Page](Screenshots/login_page.png)
+![Login Page](screenshots/login_page.png)
 
 ### 2. Products Page
-![Products Page](Screenshots/products_page.png)
+![Products Page](screenshots/products_page.png)
 
 ### 3. Cart Page
-![Cart Page](Screenshots/cart_page.png)
+![Cart Page](screenshots/cart_page.png)
 
 ### 4. Checkout Page
-![Checkout Page](Screenshots/checkout_page.png)
+![Checkout Page](screenshots/checkout_page.png)
 
 ### 5. Order Confirmation
-![Order Confirmation](Screenshots/order_confirmation.png)
+![Order Confirmation](screenshots/order_confirmation.png)
